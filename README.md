@@ -62,12 +62,9 @@ This project was built to strengthen frontend development skills by focusing on:
 
 ## 🔮 Future Improvements
 
-* Booking functionality
+* better aesthetics
 * Dark mode
 * Backend integration
-* Room availability checker
-* Payment gateway integration
-* Multi-language support
 
 ## 🤝 Contributing
 
