@@ -39,7 +39,7 @@ hotel-website-template/
 
 View the project here:
 
-[> Add your GitHub Pages link here.](https://manshavei.github.io/Hotel-site-template/)
+https://manshavei.github.io/Hotel-site-template/
 
 
 ## 🎯 Purpose
